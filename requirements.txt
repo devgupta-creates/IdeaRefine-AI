@@ -1,4 +1,0 @@
-streamlit
-langchain-core
-langchain-groq
-mysql-connector-python
